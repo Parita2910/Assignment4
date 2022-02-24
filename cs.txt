@@ -236,6 +236,15 @@ A way to monitor events on elements and trigger functionality
 --click 
 
 
+to check node just type node -v in terminal
+write npm in console n check if it's working else delete npm.ps1 file
+then to update npm install -g npm
+npm install jquery
+npm install -g @angular/cli
+ng new learning-angular(name of the project) 
+
+
+
 npm install -g @angular/cli
 ng new learning-angular
 npm start
